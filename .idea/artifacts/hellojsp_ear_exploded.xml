@@ -6,6 +6,9 @@
       <element id="directory" name="web.war">
         <element id="artifact" artifact-name="hellojsp:war exploded" />
       </element>
+      <element id="directory" name="lib">
+        <element id="file-copy" path="$PROJECT_DIR$/lib/mariadb-java-client-3.0.6.jar" />
+      </element>
     </root>
   </artifact>
 </component>
