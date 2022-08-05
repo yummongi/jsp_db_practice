@@ -9,19 +9,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56fe3436-57e1-4d9e-965c-a43faec4c06e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/NaverApiSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/test.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/hellojsp_ear_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/hellojsp_ear_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="56fe3436-57e1-4d9e-965c-a43faec4c06e" name="Changes" comment="네이버 api 코드 추가">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/META-INF/application.xml" beforeDir="false" afterPath="$PROJECT_DIR$/META-INF/application.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hellojsp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hellojsp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dto/SearchDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dto/SearchDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/form.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/form.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/next.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/next.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/test.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/test.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -194,8 +185,23 @@
       <workItem from="1659677250375" duration="1222000" />
       <workItem from="1659678490390" duration="1688000" />
       <workItem from="1659680191146" duration="2006000" />
-      <workItem from="1659684161509" duration="2755000" />
+      <workItem from="1659684161509" duration="4780000" />
     </task>
+    <task id="LOCAL-00001" summary="네이버 api 코드 추가">
+      <created>1659687747165</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1659687747165</updated>
+    </task>
+    <task id="LOCAL-00002" summary="네이버 api 코드 추가">
+      <created>1659687916433</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1659687916433</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,6 +217,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="네이버 api 코드 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="네이버 api 코드 추가" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
